@@ -1,0 +1,13 @@
+notebook
+jupyterlab
+nbconvert
+nbformat
+traitlets
+tornado
+ipykernel
+playwright
+orjson
+python-slugify
+beautifulsoup4
+lxml
+rapidfuzz
